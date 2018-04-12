@@ -1,0 +1,16 @@
+--Tree info
++ Number of nodes: 29481
++ Size of each node: 512
++ Max keys in each node: 17
++ Min keys in each node: 2
++ Average fullfill: (%): 47.07
++ Number of leaf-nodes: 26208
++ Height of tree: 6
+--Spelling result
++ luv: R 1 7 7 4 6 1
++ vveery: R 2 15 5 1 7 3
++ mucch: R 2 0 2 1 7 5
++ Plz: R 0 2 7 0 3 8
++ frend: R 1 3 1 0 5 4
++ forevver: R 1 2 8 8 1 8
++ Marrry: R 0 2 1 2 3 7
